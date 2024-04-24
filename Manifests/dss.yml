@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: abhishek80/camp:latest
+          image: abhishek80/campa:latest
           ports:
             - containerPort: 3000
           env:
